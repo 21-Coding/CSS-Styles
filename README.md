@@ -18,7 +18,7 @@ This is my first webpage project created for the Epicodus Web Development Track.
 
 ## Support and contact details
 
-Contact melbrng@gmail.com for any issues encountered.
+Contact melbrng@gmail.com or ddyoumans@icloud.com for any issues encountered.
 
 ## Technologies Used
 
